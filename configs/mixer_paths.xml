@@ -540,7 +540,7 @@
         <ctl name="RX3 MIX1 INP1" value="RX1" />
         <ctl name="RX3 MIX1 INP2" value="RX2" />
         <ctl name="SPK DAC Switch" value="1" />
-        <ctl name="RX3 Digital Volume" value="77" />
+        <ctl name="RX3 Digital Volume" value="82" />
     </path>
 
     <path name="speaker-mic">
@@ -571,8 +571,8 @@
         <ctl name="RX1 MIX1 INP1" value="RX1" />
         <ctl name="RX2 MIX1 INP1" value="RX2" />
         <ctl name="RDAC2 MUX" value="RX2" />
-        <ctl name="RX1 Digital Volume" value="78" />
-        <ctl name="RX2 Digital Volume" value="78" />
+        <ctl name="RX1 Digital Volume" value="90" />
+        <ctl name="RX2 Digital Volume" value="90" />
         <ctl name="HPHL" value="Switch" />
         <ctl name="HPHR" value="Switch" />
     </path>
@@ -628,22 +628,22 @@
 
     <path name="voice-headphones">
         <path name="headphones" />
-        <ctl name="RX1 Digital Volume" value="84" />
-        <ctl name="RX2 Digital Volume" value="84" />
+        <ctl name="RX1 Digital Volume" value="90" />
+        <ctl name="RX2 Digital Volume" value="90" />
     </path>
 
     <path name="voice-headset-mic">
         <path name="headset-mic" />
-        <ctl name="ADC2 Volume" value="6" /> 
-        <ctl name="DEC2 Volume" value="84" />
+        <ctl name="ADC2 Volume" value="8" /> 
+        <ctl name="DEC2 Volume" value="88" />
     </path>
 
     <path name="speaker-and-headphones">
         <path name="headphones" />
         <path name="speaker" />
-        <ctl name="RX1 Digital Volume" value="68" />
-        <ctl name="RX2 Digital Volume" value="68" />
-        <ctl name="RX3 Digital Volume" value="82" />
+        <ctl name="RX1 Digital Volume" value="80" />
+        <ctl name="RX2 Digital Volume" value="80" />
+        <ctl name="RX3 Digital Volume" value="90" />
     </path>
 
     <path name="handset-mic-vr">
@@ -964,20 +964,20 @@
 
     <path name="headphone-24bit-48khz">
         <path name="headphones" />
-        <ctl name="RX1 Digital Volume" value="50" />
-        <ctl name="RX2 Digital Volume" value="50" />
+        <ctl name="RX1 Digital Volume" value="70" />
+        <ctl name="RX2 Digital Volume" value="70" />
     </path>
 
      <path name="headphone-24bit-96khz">
         <path name="headphones" />
-        <ctl name="RX1 Digital Volume" value="50" />
-        <ctl name="RX2 Digital Volume" value="50" />
+        <ctl name="RX1 Digital Volume" value="70" />
+        <ctl name="RX2 Digital Volume" value="70" />
     </path>
 
     <path name="headphone-24bit-192khz">
         <path name="headphones" />
-        <ctl name="RX1 Digital Volume" value="50" />
-        <ctl name="RX2 Digital Volume" value="50" />
+        <ctl name="RX1 Digital Volume" value="70" />
+        <ctl name="RX2 Digital Volume" value="70" />
     </path>
 
     <path name="fake_speaker">
@@ -1007,38 +1007,38 @@
 
     <path name="headphone-24bit-48khz-advanced">
         <path name="headphones-advanced" />
-        <ctl name="RX1 Digital Volume" value="50" />
-        <ctl name="RX2 Digital Volume" value="50" />
+        <ctl name="RX1 Digital Volume" value="70" />
+        <ctl name="RX2 Digital Volume" value="70" />
     </path>
 
     <path name="headphone-24bit-48khz-aux">
         <path name="headphones-aux" />
-        <ctl name="RX1 Digital Volume" value="50" />
-        <ctl name="RX2 Digital Volume" value="50" />
+        <ctl name="RX1 Digital Volume" value="70" />
+        <ctl name="RX2 Digital Volume" value="70" />
     </path>
 
     <path name="headphone-24bit-96khz-advanced">
         <path name="headphones-advanced" />
-        <ctl name="RX1 Digital Volume" value="50" />
-        <ctl name="RX2 Digital Volume" value="50" />
+        <ctl name="RX1 Digital Volume" value="70" />
+        <ctl name="RX2 Digital Volume" value="70" />
     </path>
 
     <path name="headphone-24bit-96khz-aux">
         <path name="headphones-aux" />
-        <ctl name="RX1 Digital Volume" value="50" />
-        <ctl name="RX2 Digital Volume" value="50" />
+        <ctl name="RX1 Digital Volume" value="70" />
+        <ctl name="RX2 Digital Volume" value="70" />
     </path>
 
     <path name="headphone-24bit-192khz-advanced">
         <path name="headphones-advanced" />
-        <ctl name="RX1 Digital Volume" value="50" />
-        <ctl name="RX2 Digital Volume" value="50" />
+        <ctl name="RX1 Digital Volume" value="70" />
+        <ctl name="RX2 Digital Volume" value="70" />
     </path>
 
     <path name="headphone-24bit-192khz-aux">
         <path name="headphones-aux" />
-        <ctl name="RX1 Digital Volume" value="50" />
-        <ctl name="RX2 Digital Volume" value="50" />
+        <ctl name="RX1 Digital Volume" value="70" />
+        <ctl name="RX2 Digital Volume" value="70" />
     </path>
 
    <!-- No audience use for C70-->
